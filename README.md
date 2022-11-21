@@ -72,3 +72,5 @@ Here are a few other ways you can deploy this template:
 - If you want to utilize continuous deployment through GitHub webhooks, run the Netlify command `netlify init` to create a new project based on your repo or `netlify link` to connect your repo to an existing project
 
 Hope this template helps :) Happy coding 👩🏻‍💻!
+
+:)
